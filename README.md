@@ -6,7 +6,7 @@ It contains 110 complicated planning/management tasks distributed across 11 core
 The following figure shows the main procedures of creating the dataset:
 
 <p align="center">
-<img src=Asset/fig-dataset2.jpg width=60%  />
+<img src=Asset/fig-data2.jpg width=60%  />
 </p>
 
 Firstly, we selected 11 topics regarding 6G networks, e.g., integrated sensing and communication, mmWave and Terahertz Communications, non-terrestrial networks, cell-free massive MIMO, etc. 
